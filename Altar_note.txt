@@ -1,0 +1,125 @@
+    NOTES :
+
+<> Tasks : 
+
+    | Primary (history):
+         10 first :
+            - 1  : "Welcome to Altar" { Brokk need 100 wood to see what you are capable of. }
+
+            - 2  : "Help Brokk" { Brokk need a kit }
+
+            - 3  : "Help Brokk 2" {Brokk need a potion }
+
+            - 4  : "Find Eldric" { Maybe Eldric needs your help }
+
+            - 5  : "Build your first weapon" { Eldric wants to show you how to shoot with him, so you need a rifle }
+
+            - 6  : "Show your skills to Eldric" { Shoot at the three targets in the threes}
+
+            - 7  : "Eldric wants to learn you how to chase" { Collect 3 pieces of wild boar }
+
+            - 8  : ""
+
+    | Secondary :
+                - Use the market
+                - Make 10 potions in the Alchemist house 'sangliers
+                - Farm 1 000 / 5 000 / 50 000 woods/rock/diamond...
+                - Sell a item in the shop
+                - Buy a item in the shop
+                - Put things in the bank
+
+    | Idea :
+        - "Kill the dragon" { Find and kill the dragon in the volcan }
+        - "
+
+<> Player :
+
+    - Evolution 
+        {
+            Pv, speed, dommage boost,
+            inventary size, sprint capacity,
+            heal boost, Pikaxe dommage
+        }
+
+    - Level on top of the player
+
+    - All 10 level, body change (flammes on feet ...)
+    
+    -
+
+<> Game :
+
+    | Gameplay :
+
+        - Mods :
+            - fire spirit
+            - ice spirit
+            - zombies
+            - fish
+
+        - Acces to :
+            - Shop > start
+            - Bank > level 10
+            - Market > level 20
+            -
+        - Shop updates :
+            - Fish market 16:00
+            - Alchemist      17:00                Every hour in magic week-end
+            - Arsenal      18:00
+            - Market soldes time (during a week-end every month for exemple) { EVENT }
+
+        - Limit numbers of sales in the market depending on the player's level, same for place in the bank ...
+
+    | New Biom Idea :
+
+        - Ice
+        - Corail
+        - 
+
+<> Items list :
+    | Resources :
+            - wood
+            - rock
+            - coals
+            - diamond red
+            - diamond crome
+
+    | Heal :
+            - kit
+            - fruit
+            - mushrooms
+            - fish
+            - little potion
+            - big potion
+            - pepper / all vegetebales
+            - beef
+
+    | Weapons :
+            - Diferent Arch
+            - Infinity Blade
+            - 
+    
+    | Objects :
+            - tent
+            - firefly jar (lucioles)
+            - cape
+            - bag
+
+<> Altar news :
+
+    - A  bank
+    - A shop to sell items to a bad price but it -s better to loose them for nothing. (1 000 woods for 1 Guld)
+    - A market (buy or sell item)
+    - Signs (pancartes)
+    - A graveyard (cimetiere)
+    - A port with fishmarket
+    - Alchemist house
+    - Armory
+    - Arsenal
+    - A house in the wood with Eldric (high sniper tower in wood)
+    - Add a pizeria
+
+
+bot name : Silas, Valerius, Mara, Eldric, 
+
+money name : Guld, 
