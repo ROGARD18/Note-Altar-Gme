@@ -1,21 +1,37 @@
+Count of bot's number of tasks :
+            - Brokk = 2
+            - Sergent = 4
+            - Mara = 2
+            - Silas = 1
+
+            -
+
 HISTORY :
 
 {
-    - 1  : "Welcome to Altar" { Brokk need 100 wood to see what you are capable of. }
+    - 1  : "Welcome to Altar" { Brokk need 100 wood to see what you are capable of. }   Brokk [ 50 xp each
 
-    - 2  : "Help Brokk" { Brokk need a bandage }
+    - 2  : "Help Brokk" { Brokk need a 50 rock }                                              ]
 
-    - 3  : "Help Brokk 2" {Brokk need a potion }
+    - 3  : "Find Sergent in the woods" { Maybe Sergent needs your help }                Sergent [ 50 xp
 
-    - 4  : "Find Eldric" { Maybe Eldric needs your help }
+    - 4  : "Build your first weapon" { Sergent wants to show you how to shoot with him, so you need a rifle }  100 xp each
+            (go see Valerius to know how create a rifle)
 
-    - 5  : "Build your first weapon" { Eldric wants to show you how to shoot with him, so you need a rifle }
+    - 5  : "Show your skills to Sergent" { Shoot at the three targets in the threes}
 
-    - 6  : "Show your skills to Eldric" { Shoot at the three targets in the threes}
+    - 6  : "Sergent wants to learn you how to chase" { Collect 3 pieces of wild boar }           ]
 
-    - 7  : "Eldric wants to learn you how to chase" { Collect 3 pieces of wild boar }
+    - 7  : "Find Mara in the woods, she has shomething for you" { Maybe she can learn you something }  Mara [ 100 xp
 
-    - 8  : ""
+    - 8  : "Mara needs mushrooms" { Collect in the wood 3 mushrooms for Mara }               170 xp   ] 
+
+    - 9  : "Help Silas in the woods for his house" { Collect 1 roal in the moutain to help Silas to have back his fire }   Silas [ 185 xp]
+            REWARD / 10 rifle bullets { Take that, my boy/dear, to defend yourself against criminals }
+
+    - 10 : "Go train yourself in the shooting stand" { Don 't waste bullets you need to touch 5 targets GL !! } 200 xp
+
+    - 11 : "Discover the alchemist to learn how to make potions.( This may be possible later on :)" { Find the alchemist in Altar }
 }
 
     | Secondary :
@@ -43,3 +59,10 @@ HISTORY :
                 - Be level 10/20/30... in mineur
                 - Be level 10/20/30... in chasseur
                 - Be level 10/20/30... in pecheur
+
+                - graveyard
+                {
+                    -Take me back a blobfish !
+                        reward : 1000 xp and toxic arch
+                    -
+                }
