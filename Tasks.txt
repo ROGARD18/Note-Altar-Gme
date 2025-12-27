@@ -1,0 +1,45 @@
+HISTORY :
+
+{
+    - 1  : "Welcome to Altar" { Brokk need 100 wood to see what you are capable of. }
+
+    - 2  : "Help Brokk" { Brokk need a bandage }
+
+    - 3  : "Help Brokk 2" {Brokk need a potion }
+
+    - 4  : "Find Eldric" { Maybe Eldric needs your help }
+
+    - 5  : "Build your first weapon" { Eldric wants to show you how to shoot with him, so you need a rifle }
+
+    - 6  : "Show your skills to Eldric" { Shoot at the three targets in the threes}
+
+    - 7  : "Eldric wants to learn you how to chase" { Collect 3 pieces of wild boar }
+
+    - 8  : ""
+}
+
+    | Secondary :
+                - Use the market
+                - Make 10 potions in the Alchemist house 'sangliers
+                - Farm 1 000 / 5 000 / 50 000 woods/rock/diamond...
+                - Sell a item in the shop
+                - Buy a item in the shop
+                - Put things in the bank
+                - Use a mini potion
+                - Use a big potion
+                - Use a slurp
+                - Use a gourde
+                - Use a splash
+                - Use a piment splash
+                - Use a smoothie
+                - Use a bidon
+                - Use a bandage
+                - Use a kit
+                - Use a spray
+                - Use a cannon
+                - Use a shield canon
+                - Be level 10/20/30... in bucheron
+                - Be level 10/20/30... in cueilleur
+                - Be level 10/20/30... in mineur
+                - Be level 10/20/30... in chasseur
+                - Be level 10/20/30... in pecheur
