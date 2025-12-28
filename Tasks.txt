@@ -1,17 +1,24 @@
 Count of bot's number of tasks :
             - Brokk = 2
-            - Sergent = 4
+            - Sergent = 5
             - Mara = 2
             - Silas = 1
 
-            -
+            - Alchemist = 3
+            - Turk = 4;
+            - Pippo = 3
+            - Penny = 
+            - Valerius = 
+            - Banker = 
+            - Marchand = 
+            - Vanila = 
 
 HISTORY :
 
 {
-    - 1  : "Welcome to Altar" { Brokk need 100 wood to see what you are capable of. }   Brokk [ 50 xp each
+    - 1  : "Welcome to Altar" { Brokk need 50 wood to see what you are capable of. }   Brokk [ 50 xp each
 
-    - 2  : "Help Brokk" { Brokk need a 50 rock }                                              ]
+    - 2  : "Help Brokk" { Brokk need a 20 rock }                                              ]
 
     - 3  : "Find Sergent in the woods" { Maybe Sergent needs your help }                Sergent [ 50 xp
 
@@ -31,16 +38,54 @@ HISTORY :
 
     - 10 : "Go train yourself in the shooting stand" { Don 't waste bullets you need to touch 5 targets GL !! } 200 xp
 
-    - 11 : "Discover the alchemist to learn how to make potions.( This may be possible later on :)" { Find the alchemist in Altar }
+
+                                            LEVEL UP : 2
+
+
+    - 11 : "Discover the alchemist to learn how to make potions.( This may be possible later on :)" { Find the alchemist in Altar } The alchemist [
+
+    - 12 : "Make 2 mini potions" { The alchemist wants 2 mini potion for his preparation }
+
+    - 13 : "Make 2 bandages" { The alchemist wants 2 bandages for his preparation }
+            REWARD / 2 slurp mushrooms { Thank you very much for what you have done. As a reward, I am giving you this. 
+                                         It may help you make a potion in the future. Don't do anything foolish with it. }                        ]
+
+    - 14 : "Bring an apple to Turk to talk with him" { Turk is a bit rough (brut), give him an apple to sympathize }        Turk  [
+
+    - 15 : "Catch 3 fretin to show your competences to Turk" { Turk needs to see if are capable to catch fishes }
+
+    - 15 : "Catch 2 green fish for Turk" { It's not enough for Turk, he wants more than 3 fretins }
+
+    - 16 : "Catch 5 fretins for Master Pippo, a Turk' s friend for his new pizza" { Master Pippo is the pizzaiolo master in altar respected by all
+                                                                                    for his greatness and its pizzas }            ]
+                                            
+    - 17 : "Help Pippo to increase inventory, Pippo didn't receive his delivery today" (pippo give you 20 rifle bullets to kill beef)    Pippo [
+            { Master Pippo need 5 beef and 1 slurp mushroom }
+
+    - 18 : "Thanks a lot, I don't know I would have managed to serve the last customers of the day whitout you."
+            REWARD / 2 pippo's pizzas
+    
+    - 19 : "To thank you I give you a pizza" { Tanks a lot you deserve a pizza, but Sergent order me a pizza because it makes you hungry to watch the surroundings of the altar }
+            { Give a pippo pizza to sergent}                                                                                                    ]
+
+    - 20 : "Sergent needs an apple to make it perfect" { Give an apple to Sergent }   Sergent []
+            (The sergeant officially recognizes you as a true soldier of Altar)
+            REWARD / assault fusil
+
+                                                        LEVEL UP : 3
+
+    - 21 : "
+
 }
 
     | Secondary :
                 - Use the market
                 - Make 10 potions in the Alchemist house 'sangliers
-                - Farm 1 000 / 5 000 / 50 000 woods/rock/diamond...
+                - Farm 1 000 / 5 000 / 10 000 / 50 000 woods/rock/diamond...
                 - Sell a item in the shop
                 - Buy a item in the shop
                 - Put things in the bank
+
                 - Use a mini potion
                 - Use a big potion
                 - Use a slurp
@@ -54,6 +99,7 @@ HISTORY :
                 - Use a spray
                 - Use a cannon
                 - Use a shield canon
+
                 - Be level 10/20/30... in bucheron
                 - Be level 10/20/30... in cueilleur
                 - Be level 10/20/30... in mineur
@@ -66,3 +112,4 @@ HISTORY :
                         reward : 1000 xp and toxic arch
                     -
                 }
+                - Eat 2 / 5 / 10 / 20 / 50 / 100.. times in Pippo's restaurant
